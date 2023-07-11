@@ -3,4 +3,8 @@ This is testing.
 added note for testing after first commit
 add some text after branch out
 changes added on extended
+<<<<<<< HEAD
 testing for merge confice in master branch
+=======
+good
+>>>>>>> extended
